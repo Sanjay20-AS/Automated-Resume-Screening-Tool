@@ -1,0 +1,17 @@
+Python Developer – Entry-Level / Junior
+
+We are seeking a Python Developer to build maintainable applications, data-processing utilities,
+and automation workflows. The role involves writing clean Python code, working with SQL databases,
+preparing and analyzing data, and collaborating through Git.
+
+Required skills: Python, SQL, Pandas, NumPy, Scikit-learn, Git.
+Preferred skills: Regex, Flask, pytest, Matplotlib, REST API.
+
+Responsibilities:
+- Develop and maintain Python scripts and applications.
+- Clean, transform, and analyze structured datasets.
+- Work with SQL databases and APIs.
+- Write tests and document code.
+- Collaborate using Git and follow software engineering practices.
+
+This job description is fictional and is intended for demonstrating the screening workflow.

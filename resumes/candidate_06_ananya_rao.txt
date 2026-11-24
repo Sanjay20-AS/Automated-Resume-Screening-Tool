@@ -1,0 +1,19 @@
+Name: Ananya Rao
+Target Role: Python Automation Engineer
+Location: Chennai, India
+Experience: 2.5 years
+
+Professional Summary
+Automated repetitive workflows with Python, Selenium, and Regex. Processed spreadsheets with Pandas, wrote pytest checks, and maintained scripts in Git. Built log parsing and file validation utilities.
+
+Technical Skills
+Python, Regex, Selenium, Pandas, Git, pytest
+
+Projects
+- Practical project work demonstrating Python, Regex, Selenium.
+- Documented implementation steps, outcomes, and lessons learned.
+
+Education
+Bachelor's degree / relevant coursework (synthetic sample profile)
+
+Note: This is fictional sample data created solely for software demonstration.

@@ -1,0 +1,19 @@
+Name: Arjun Menon
+Target Role: Python Intern
+Location: Coimbatore, India
+Experience: Fresher
+
+Professional Summary
+Completed academic projects involving Python data analysis. Cleaned CSV datasets with Pandas and NumPy, created visualizations with Matplotlib, and documented experiments in Jupyter notebooks.
+
+Technical Skills
+Python, Pandas, NumPy, Matplotlib, Jupyter
+
+Projects
+- Practical project work demonstrating Python, Pandas, NumPy.
+- Documented implementation steps, outcomes, and lessons learned.
+
+Education
+Bachelor's degree / relevant coursework (synthetic sample profile)
+
+Note: This is fictional sample data created solely for software demonstration.

@@ -1,0 +1,24 @@
+{
+  "required": [
+    "Python",
+    "SQL",
+    "Pandas",
+    "NumPy",
+    "Scikit-learn",
+    "Git"
+  ],
+  "preferred": [
+    "Regex",
+    "Flask",
+    "pytest",
+    "Matplotlib",
+    "REST API"
+  ],
+  "aliases": {
+    "scikit learn": "Scikit-learn",
+    "sklearn": "Scikit-learn",
+    "powerbi": "Power BI",
+    "restful api": "REST API",
+    "py test": "pytest"
+  }
+}

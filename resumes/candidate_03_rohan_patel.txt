@@ -1,0 +1,19 @@
+Name: Rohan Patel
+Target Role: Machine Learning Intern
+Location: Pune, India
+Experience: 1 year
+
+Professional Summary
+Implemented classification and regression experiments in Python. Prepared features with Pandas and NumPy, evaluated models with Scikit-learn, explored TensorFlow, and tracked source code with Git. Familiar with model evaluation and notebooks.
+
+Technical Skills
+Python, Scikit-learn, NumPy, Pandas, TensorFlow, Git
+
+Projects
+- Practical project work demonstrating Python, Scikit-learn, NumPy.
+- Documented implementation steps, outcomes, and lessons learned.
+
+Education
+Bachelor's degree / relevant coursework (synthetic sample profile)
+
+Note: This is fictional sample data created solely for software demonstration.
